@@ -1,0 +1,10 @@
+console.group("group 1");
+console.log("masg 1");
+console.log("masg 2");
+console.group("group 2");
+console.log("masg 3");
+console.log("masg 4");
+console.group("group 3");
+console.log("masg 5");
+console.log("masg 6");
+console.groupEnd();
