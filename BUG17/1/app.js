@@ -1,0 +1,16 @@
+let one = document.querySelector("div");
+console.log(one);
+let two = document.querySelector("div#elzero");
+console.log(two);
+let there = document.querySelector("div.element");
+console.log(there);
+let four = document.querySelector("div[name='js']");
+console.log(four);
+let five = document.querySelectorAll("div");
+console.log(five);
+let six = document.querySelectorAll("div#elzero");
+console.log(six);
+let seven = document.querySelectorAll(".element");
+console.log(seven);
+let aite = document.querySelectorAll("div[name='js']");
+console.log(aite);
